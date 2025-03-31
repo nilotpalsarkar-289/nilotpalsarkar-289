@@ -1,23 +1,22 @@
-### 👋 Hi, I'm Nilotpal Sarkar
+## 👋 Hi, I'm [Your Name]  
 
 **🚀 Senior Undergrad | ECE @ IIIT Kalyani**  
-**🔬 Project Intern | @ IIT Madras**  
-**🔬 Research Intern | @ NIT Silchar** 
+**🔬 Project Intern |  @ IIT Madras**  
+**🔬 Research Intern |  @ NIT Silchar** 
 **📡 Signal Processing | Machine Learning Enthusiast**  
 
-#### 🔧 Tech & Interests  
+### 🔧 Tech & Interests  
 - ⚡ Signal Processing | 🧠 Machine Learning | 📶 Wireless Communication  
 - 🖥️ Python, MATLAB, C++  
 - 📊 Data Analysis & Visualization  
 
-#### 💡 Ask Me About  
+### 💡 Ask Me About  
 - 📡 Signal Processing Techniques  
 - 🤖 ML in Communication Systems  
 - 📶 5G & Wireless Networks  
 
-#### 🎯 Fun Fact  
-🎵 I can find a signal in noise—both in data & music! 🎶 
-
+### 🎯 Fun Fact  
+🎵 I can find a signal in noise—both in data & music! 🎶  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nilotpal Sarkar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarkar_nil_289) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nilotpal Sarkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nilotpalsarkar289@gmail.com) 
