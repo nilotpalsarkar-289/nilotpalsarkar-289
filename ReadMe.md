@@ -1,9 +1,10 @@
-## 👋 Hi, I'm [Your Name]  
-
+## 👋 Hi, I'm Nilotpal Sarkar
 **🚀 Senior Undergrad | ECE @ IIIT Kalyani**  
-**🔬 Project Intern |  @ IIT Madras**  
-**🔬 Research Intern |  @ NIT Silchar** 
+**🔬 Project Intern | IIT Madras**  
+**🔬 Research Intern | NIT Silchar**  
+
 **📡 Signal Processing | Machine Learning Enthusiast**  
+
 
 ### 🔧 Tech & Interests  
 - ⚡ Signal Processing | 🧠 Machine Learning | 📶 Wireless Communication  
@@ -12,7 +13,7 @@
 
 ### 💡 Ask Me About  
 - 📡 Signal Processing Techniques  
-- 🤖 ML in Communication Systems  
+- 🤖 Probability and ML 
 - 📶 5G & Wireless Networks  
 
 ### 🎯 Fun Fact  
