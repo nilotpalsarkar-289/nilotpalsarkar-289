@@ -1,5 +1,21 @@
-# 💫 About Me:
-# 👋 Hi, I'm Nilotpal Sarkar<br><br>🚀 **Senior Undergrad | ECE @ IIIT Kalyani**  <br>🔬 **Research Intern | @ IIT Madras**  <br>📡 **Signal Processing | Machine Learning Enthusiast**  <br><br>## 🔧 Tech & Interests  <br>- ⚡ **Signal Processing** | 🧠 **Machine Learning** | 📶 **Wireless Communication**  <br>- 🖥️ **Python, MATLAB, C++**  <br>- 📊 **Data Analysis & Visualization**  <br><br>## 💡 Ask Me About  <br>- 📡 **Signal Processing Techniques**  <br>- 🤖 **Machine Learning in Communication Systems**  <br>- 📡 **5G & Wireless Networks**  <br><br>## 🎯 Fun Fact  <br>🎵 **I can find a signal in noise—both in data & music!** 🎶  <br>
+### 👋 Hi, I'm [Your Name]  
+
+**🚀 Senior Undergrad | ECE @ IIIT Kalyani**  
+**🔬 Research Intern | 5G Testbed @ IIT Madras**  
+**📡 Signal Processing | Machine Learning Enthusiast**  
+
+#### 🔧 Tech & Interests  
+- ⚡ Signal Processing | 🧠 Machine Learning | 📶 Wireless Communication  
+- 🖥️ Python, MATLAB, C++  
+- 📊 Data Analysis & Visualization  
+
+#### 💡 Ask Me About  
+- 📡 Signal Processing Techniques  
+- 🤖 ML in Communication Systems  
+- 📶 5G & Wireless Networks  
+
+#### 🎯 Fun Fact  
+🎵 I can find a signal in noise—both in data & music! 🎶 
 
 
 ## 🌐 Socials:
