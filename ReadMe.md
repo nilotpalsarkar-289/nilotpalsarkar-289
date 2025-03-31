@@ -1,7 +1,8 @@
-### 👋 Hi, I'm [Your Name]  
+### 👋 Hi, I'm Nilotpal Sarkar
 
 **🚀 Senior Undergrad | ECE @ IIIT Kalyani**  
-**🔬 Research Intern | 5G Testbed @ IIT Madras**  
+**🔬 Project Intern | @ IIT Madras**  
+**🔬 Research Intern | @ NIT Silchar** 
 **📡 Signal Processing | Machine Learning Enthusiast**  
 
 #### 🔧 Tech & Interests  
