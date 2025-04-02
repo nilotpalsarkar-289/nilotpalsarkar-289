@@ -2,7 +2,7 @@
 
 ## 🚀 Senior Undergrad | ECE @ IIIT Kalyani  
 ## 🔬 Project Intern | IIT Madras  
-## 🔬 Research Intern | NIT Silchar  
+## 🔬 Summer Research Intern | NIT Silchar  
 
 ### 📡 Signal Processing | Machine Learning Enthusiast  
 
