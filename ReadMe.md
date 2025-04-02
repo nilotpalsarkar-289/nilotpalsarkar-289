@@ -4,12 +4,7 @@
 ## 🔬 Project Intern | IIT Madras  
 ## 🔬 Summer Research Intern | NIT Silchar  
 
-### 📡 Signal Processing | Machine Learning Enthusiast  
-
-## 🔧 Tech & Interests  
-- ⚡ **Signal Processing** | 🧠 **Machine Learning** | 📶 **Wireless Communication**  
-- 🖥️ **Python, MATLAB, C++**  
-- 📊 **Data Analysis & Visualization**  
+### 📡 Signal Processing | 🧠 Machine Learning |  📶 **Wireless Communication**  
 
 ## 💡 Ask Me About  
 - 📡 **Signal Processing Techniques**  
