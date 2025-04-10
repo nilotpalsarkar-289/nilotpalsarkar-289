@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nilotpal Sarkar  
 
 ## 🚀 Senior Undergrad | ECE @ IIIT Kalyani  
-## 🔬 Project Intern | IITM
-## 🔬 Summer Research Intern | NITS  
+## 🔬 Ex-Project Intern | IITM
+## 🔬 Ex-Summer Research Intern | NITS  
 
 ### 📡 Signal Processing | 🧠 Machine Learning |  📶 **Wireless Communication**  
 
