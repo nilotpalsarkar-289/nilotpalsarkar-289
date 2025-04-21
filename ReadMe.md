@@ -8,7 +8,7 @@
 
 ## 💡 Ask Me About  
 - 📡 **Signal Processing & Communication**  
-- 🤖 **Probability and ML**  
+- 🤖 **Applied Machine LearningL**  
 - 📶 **5G & Wireless Networks**  
 
 ## 🎯 Fun Fact  
