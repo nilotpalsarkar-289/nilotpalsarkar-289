@@ -7,7 +7,7 @@
 ### 📡 Signal Processing | 🧠 Machine Learning |  📶 **Wireless Communication**  
 
 ## 💡 Ask Me About  
-- 📡 **Signal Processing Techniques**  
+- 📡 **Signal Processing & Communication**  
 - 🤖 **Probability and ML**  
 - 📶 **5G & Wireless Networks**  
 
