@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nilotpal Sarkar  
 
-## 🚀 Senior Undergrad | ECE @ IIIT Kalyani  
+## 🚀 Undergrad | ECE @ IIIT Kalyani  
 ## 🔬 Ex-Project Intern | IITM
 ## 🔬 Ex-Summer Research Intern | NITS  
 
