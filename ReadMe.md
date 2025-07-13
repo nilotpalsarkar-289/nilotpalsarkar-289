@@ -9,7 +9,7 @@
 ## 💡 Ask Me About  
 - 📡 **Signal Processing & Communication**  
 - 🤖 **Applied Machine Learning**  
-- 📶 **5G & Wireless Networks**  
+- 📶 **Data Analysis/Technical Documentation**  
 
 ## 🎯 Fun Fact  
 🎵 **I can find a signal in noise—both in data & music!** 🎶  
